@@ -3,12 +3,12 @@ _THIS FILE IS ENCODED IN UTF-8.
 IF YOU CAN'T OPEN THIS FILE CORRECTLY, 
 PLEASE RELOAD THIS FILE WITH UTF-8._
 
-#说明
+# 说明
 
 这是2016-2017学年上学期C++大作业，现在学期结束，开放源代码。
 作者：张文杰 1500011394@pku.edu.cn
 
-#HTMLTrim
+# HTMLTrim
 
 2016-2017 学年上学期C++大作业的文件
 
@@ -35,7 +35,7 @@ HtmlTrim用于裁剪由Word生成的文档，删去冗余信息，使得Word文�
 - 嵌套的span处理：如果span标签嵌套，则将span合并，可以达到相同效果。
 - 删除多余空白：在head和p之间有多余的空白字符，均可删去。
 
-##文件夹说明
+## 文件夹说明
 - build 由Visual Studio 2015 x86 Release、Qt 5.7.0生成的程序文件，HTMLTrim.exe，以及运行所必须的一些动态链接库。
 - doc Doxgen生成的说明文档
 - sample 程序执行的样例文件
