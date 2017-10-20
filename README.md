@@ -6,7 +6,7 @@ PLEASE RELOAD THIS FILE WITH UTF-8._
 # 说明
 
 这是2016-2017学年上学期C++大作业，现在学期结束，开放源代码。
-作者：张文杰 1500011394@pku.edu.cn
+作者：myxxxsquared https://github.com/myxxxsquared/
 
 # HTMLTrim
 
